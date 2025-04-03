@@ -1,0 +1,18 @@
+/* Nav */
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4.5rem;
+  font-weight: 600;
+}
+nav button {
+  font-size: 1rem;
+  padding: 1rem 3rem;
+}
+
+nav ul {
+  padding: 1.6rem 0;
+  display: flex;
+  gap: 5rem;
+}

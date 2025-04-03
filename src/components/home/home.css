@@ -1,0 +1,25 @@
+/* Main */
+main {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+main .heading {
+  display: flex;
+  justify-content: space-between;
+}
+main .text {
+  width: 80%;
+}
+
+main h1 {
+  text-transform: capitalize;
+  font-size: 6rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+}
+
+main .heading p {
+  width: 61%;
+  line-height: 2.3;
+}
